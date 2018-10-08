@@ -12,6 +12,6 @@ public class testClass {
 	
 	@Test
 	public void testCase2() {
-		System.out.println("Test Case2");
+		System.out.println("Test Case3");
 	}
 }
