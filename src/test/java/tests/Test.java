@@ -10,7 +10,7 @@ public class Test {
 	}
 	
 	
-	public void testCase3() {
-		System.out.println("Test Case3");
+	public void testCase31() {
+		System.out.println("Test Case31");
 }
 }
